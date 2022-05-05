@@ -1,6 +1,8 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/paulobh/energy-br-ons-sdrohistorical/tree/master)
+
 ## automatic-octo-template
 
-Optimized for python 3.6
+Optimized for python 3.8
 
 This is a project template. Used in other repositories.
 
@@ -54,7 +56,7 @@ in your ___venv___ or ___anaconda env___, just run the following command:
 
 For running it, on the `~/src` directory just run the follow command:
 
-`python automatic_octo.py` 
+`python ./src/main.py` 
 
 #### Notes
 
